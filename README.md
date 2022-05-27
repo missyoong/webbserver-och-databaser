@@ -13,7 +13,7 @@ Lista och anteckningar på vad vi har gått igenom hittils under kursen
 - Node.js - Hur installerar man det?
 https://nodejs.dev/download
 
-- Node.jsRelease cycle / Release Plan
+- Node.js Release cycle / Release Plan
 - Node REPL
 - REPL = Read, Eval, Print, Loop
 Node REPL - Kommandon
