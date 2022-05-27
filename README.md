@@ -1,4 +1,5 @@
 # webbserver-och-databaser
+Lista och anteckningar på vad vi har gått igenom hittils under kursen
 
 ## Vecka 1
 
